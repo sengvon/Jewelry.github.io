@@ -122,6 +122,9 @@ h5,
 span {
   font-size: 3rem;
 }
+.home{
+  cursor: pointer;
+}
 /* navigation-bar */
 
 .nav-list {
