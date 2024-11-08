@@ -124,6 +124,7 @@ span {
 }
 .home{
   cursor: pointer;
+  color: gray;
 }
 /* navigation-bar */
 
